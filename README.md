@@ -6,5 +6,6 @@ You can see live project <a href="https://olivares15567.github.io/3d_shoe/">here
 
 
 Final Product below:
-
-<img src="snapshot.png">
+<p align="center">
+  <img src="snapshot.PNG" width="550">
+</p>
